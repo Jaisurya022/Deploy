@@ -1,0 +1,133 @@
+// eslint-disable-next-line no-unused-vars
+import image9 from '../public/image9.jpg';
+
+const ProductData = [
+  {
+    id: 1,
+    Title: 'Mobile1',
+    img: image9,
+    Price: 2000,
+    Des: 'lorem ipsum dolor sit amet',
+  },
+  {
+    id: 2,
+    Title: 'Mobile2',
+    img: image9,
+    Price: 2000,
+    Des: 'lorem ipsum dolor sit amet',
+  },
+  {
+    id: 3,
+    Title: 'Mobile3',
+    img: image9,
+    Price: 2000,
+    Des: 'lorem ipsum dolor sit amet',
+  },
+  {
+    id: 4,
+    Title: 'Mobile4',
+    img: image9,
+    Price: 2000,
+    Des: 'lorem ipsum dolor sit amet',
+  },
+  {
+    id: 5,
+    Title: 'Mobile5',
+    img: image9,
+    Price: 2000,
+    Des: 'lorem ipsum dolor sit amet',
+  },
+  {
+    id: 6,
+    Title: 'Mobile6',
+    img: image9,
+    Price: 2000,
+    Des: 'lorem ipsum dolor sit amet',
+  },
+  {
+    id: 7,
+    Title: 'Mobile7',
+    img: image9,
+    Price: 2000,
+    Des: 'lorem ipsum dolor sit amet',
+  },
+  {
+    id: 8,
+    Title: 'Mobile8',
+    img: image9,
+    Price: 2000,
+    Des: 'lorem ipsum dolor sit amet',
+  },
+  {
+    id: 9,
+    Title: 'Mobile9',
+    img: image9,
+    Price: 2000,
+    Des: 'lorem ipsum dolor sit amet',
+  },
+  {
+    id: 10,
+    Title: 'Mobile10',
+    img: image9,
+    Price: 2000,
+    Des: 'lorem ipsum dolor sit amet',
+  },
+  {
+    id: 11,
+    Title: 'Mobile11',
+    img: image9,
+    Price: 2000,
+    Des: 'lorem ipsum dolor sit amet',
+  },
+  {
+    id: 12,
+    Title: 'Mobile12',
+    img: image9,
+    Price: 2000,
+    Des: 'lorem ipsum dolor sit amet',
+  },
+  {
+    id: 13,
+    Title: 'Mobile13',
+    img: image9,
+    Price: 2000,
+    Des: 'lorem ipsum dolor sit amet',
+  },
+  {
+    id: 14,
+    Title: 'Mobile14',
+    img: image9,
+    Price: 2000,
+    Des: 'lorem ipsum dolor sit amet',
+  },
+  {
+    id: 15,
+    Title: 'Mobile15',
+    img: image9,
+    Price: 2000,
+    Des: 'lorem ipsum dolor sit amet',
+  },
+  {
+    id: 16,
+    Title: 'Mobile16',
+    img: image9,
+    Price: 2000,
+    Des: 'lorem ipsum dolor sit amet',
+  },
+  {
+    id: 17,
+    Title: 'Mobile17',
+    img: image9,
+    Price: 2000,
+    Des: 'lorem ipsum dolor sit amet',
+  },
+  {
+    id: 18,
+    Title: 'Mobile18',
+    img: image9,
+    Price: 2000,
+    Des: 'lorem ipsum dolor sit amet',
+  },
+];
+
+export default ProductData;
